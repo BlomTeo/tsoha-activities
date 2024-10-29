@@ -1,6 +1,6 @@
 # tsoha-activities
 
-Sovelluksessa näkyy tietyn alueen paikat, jotka ovat tarkoitettu aktiviteettien harjoittamiseen. Sovellusta voi siis käyttää miettiessään, mitä tekisi esimerkiksi jonkin porukan kanssa. Paikoista voi etsiä tietoa ja lukea arvioita. Jokainen käyttäjä on peruskäyttäjä tai ylläpitäjä.
+Sovelluksessa näkyy tietyn alueen paikat, jotka ovat tarkoitettu vapaa-ajan aktiviteettien harjoittamiseen. Sovellusta voi siis käyttää miettiessään, mitä tekisi esimerkiksi jonkin porukan kanssa. Paikoista voi etsiä tietoa ja lukea arvioita. Jokainen käyttäjä on peruskäyttäjä tai ylläpitäjä.
 
     - Käyttäjä voi kirjautua sisään ja ulos sekä luoda uuden tunnuksen
     - Käyttäjä näkee paikat kartalla ja voi painaa paikasta, jolloin siitä näytetään lisää tietoa (kuten kuvaus ja aukioloajat)
